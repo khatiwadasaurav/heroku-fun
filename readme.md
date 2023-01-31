@@ -1,1 +1,1 @@
-This is a merge conflict test1
+This is a merge conflict test2
